@@ -1,0 +1,6 @@
+ビルド＞署名済みバンドル/APKの生成＞
+モジュール:KinmuShift.app
+キー保管パス:C:\Users\hatoi\AndroidStudioProjects\KinmuShift\keyfile.jks
+キー保管パスワード:Nishinnoko@1
+キー・エイリアス:kinmushift
+鍵パスワード:Nishinnoko@1
